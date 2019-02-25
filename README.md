@@ -5,4 +5,9 @@ demo find meteors acg
 
 This project requires python3 and the requests package
 
-`python find_meteors.py`
+Can install pipenv, then:
+
+```
+pipenv install
+python find_meteors.py
+```
